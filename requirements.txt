@@ -1,3 +1,5 @@
+
+-f https://download.pytorch.org/whl/torch_stable.html
 asgiref==3.4.1
 bpemb==0.3.3
 certifi==2021.10.8
