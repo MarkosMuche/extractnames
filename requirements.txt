@@ -57,7 +57,8 @@ sqlparse==0.4.2
 tabulate==0.8.9
 threadpoolctl==3.0.0
 tokenizers==0.10.3
-torch==1.10.0
+torch==1.6.0+cpu
+torchvision==0.7.0+cpu
 tqdm==4.62.3
 transformers==4.12.3
 typing_extensions==4.0.0
